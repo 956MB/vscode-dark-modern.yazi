@@ -1,24 +1,26 @@
 <div align="center">
 <img src="https://github.com/sxyazi/yazi/blob/main/assets/logo.png?raw=true" alt="Yazi logo" width="20%">
-</div>
-
-<h3 align="center">
+<h3>
 	VSCode Dark Modern Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
 </h3>
-
-<div align="center">
+<a>
 	This <a href="https://github.com/sxyazi/yazi">Yazi</a>  flavor matches the <a href="https://code.visualstudio.com/">Visual Studio Code</a> default theme.
+</a>
 </div>
 
 ## 👀 Preview
 
-<img src="img/preview.png" width="600" />
+<img src="./preview.png" width="600" />
 
 ## 🎨 Installation
 
 ### Yazi CLI
 
 ```bash
+# v25.5.28+
+ya pkg add vscode-dark-modern
+
+# pre v25.5.28 (deprecated)
 ya pack -a 956MB/vscode-dark-modern
 ```
 

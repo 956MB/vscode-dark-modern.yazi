@@ -18,7 +18,7 @@
 
 ```bash
 # v25.5.28+
-ya pkg add vscode-dark-modern
+ya pkg add 956MB/vscode-dark-modern
 
 # pre v25.5.28 (deprecated)
 ya pack -a 956MB/vscode-dark-modern

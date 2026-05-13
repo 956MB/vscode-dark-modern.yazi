@@ -40,6 +40,8 @@ Add the these lines to your `theme.toml` configuration file to use it:
 
 ```toml
 [flavor]
+use = "vscode-dark-modern"
+# For Yazi 0.4 and above:
 dark = "vscode-dark-modern"
 ```
 
